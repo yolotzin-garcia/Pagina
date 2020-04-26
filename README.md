@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="UTF-8"/>
@@ -40,9 +40,8 @@
             <div class="header-content-right" >
               <h1  class="display-4">PANADERIA "ADIDIAN"</h1>
               <p class="mt-3">La mejor panaderia del lugar</p>
-
+              </center>
                         </div>
-</center>
     <section id="header">
       <div class="container mt-5">
         <div class="row">
@@ -86,8 +85,6 @@
               <p>puede hacer su pedido no solo de pan tambien le ofren pizza,galletas,panque,churros dulces,pay,rosca navideñas,polvorones sevillanos,si usted lo desea tambien mesa de dulces para sus eventos, incluso le ofrece elaboracion de pequeños recuerdos manuales tales como llaveros,catrinas,canastas decoradas,adornos navideños,floreros tejidos,decoraciones con botellas reutilizadas,murales</p>
 </div>
 </div>
-            </div>
-          </div>
         </div>
       </div>
     </section>
