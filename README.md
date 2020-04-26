@@ -113,8 +113,7 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="img/mural.jpeg"" class="d-block w-1" alt="...">
-      <div class="carousel-caption d-none d-md-block">
+<img src="img/mural.jpeg" class="d-block w-1" alt="...">      
         
     </div>
     <div class="carousel-item">
