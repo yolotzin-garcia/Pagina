@@ -115,9 +115,7 @@
     <div class="carousel-item active">
       <img src="img/mural.jpeg"" class="d-block w-1" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>MURAL</h5>
-        <p>Se muestra la imagen de un mural con dibujo de un arbol hechopor el personal</p>
-      </div>
+        
     </div>
     <div class="carousel-item">
       <img src="img/galletas1.jpeg" class="d-block w-1" alt="...">
