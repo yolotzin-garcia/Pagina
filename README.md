@@ -40,7 +40,7 @@
             <div class="header-content-right" >
               <h1  class="display-4">PANADERIA "ADIDIAN"</h1>
               <p class="mt-3">La mejor panaderia del lugar</p>
-              </center>
+              
                         </div>
     <section id="header">
       <div class="container mt-5">
@@ -148,7 +148,7 @@
 <center>
           Tambien visita
  
-        </p>
+        
        <h6><a href="https://www.dasilva.mx/">Panaderia dasilva</a></h6>
 
 <h6><a href="http://www.la-panadera.com/">Panaderia la panaderia</a></h6>
@@ -206,6 +206,5 @@
 
  
     </script>
-  </body>
-</html>
+  
 
